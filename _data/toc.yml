@@ -57,5 +57,5 @@
 
 # A chapter w/ a collection of sections beneath it
 - title: 08-02_RNN--LSTM--sequence-classification
-  url: /features/notebooks2
+  url: /features/n3
   not_numbered: true
